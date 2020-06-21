@@ -2,113 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f3866a3-c470-4cd5-9477-9502e9902c14" name="Default" comment="Bridge">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/Chain_of_Responsibility.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/LimitSupport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/NoSupport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/OddSupport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/SpecialSupport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/Support.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chain_of_Responsibility/src/com/Trouble.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/Command.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/command/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/command/MacroCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/drawer/DrawCanvas.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/drawer/DrawCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Command/src/com/drawer/Drawable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/Composite.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/src/com/composite/Directory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/src/com/composite/Entry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/src/com/composite/File.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/src/com/composite/FileTreatmentException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Composite/src/com/composite/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/Border.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/Display.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/FullBorder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/SideBorder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decorator/src/com/decorator/StringDisplay.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Facade/Facade.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Facade/src/com/Facade/Database.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Facade/src/com/Facade/HtmlWriter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Facade/src/com/Facade/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Facade/src/com/Facade/PageMaker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Flyweight/src/com/flyweight/BigChar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Flyweight/src/com/flyweight/BigCharFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Flyweight/src/com/flyweight/BigString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Flyweight/src/com/flyweight/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/Interpreter.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/CommandListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/CommandNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/Context.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/ParseException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/PrimitiveCommandNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/ProgramNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Interpreter/src/com/interpreter/RepeatCommandNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/Mediator.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/Colleague.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/ColleagueButton.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/ColleagueCheckBox.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/ColleagueTextField.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/LoginFrame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Mediator/src/com/mediator/Mediator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Memento/Memento.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Memento/src/com/memento/Gamer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Memento/src/com/memento/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Memento/src/com/memento/Memento.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/Observer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/DigitObserver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/GraphObserver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/NumberGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/Observer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Observer/src/com/observer/RandomNumberGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Proxy/Proxy.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Proxy/src/com/proxy/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Proxy/src/com/proxy/Printable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Proxy/src/com/proxy/Printer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Proxy/src/com/proxy/PrinterProxy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/State.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/Context.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/DayState.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/NightState.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/SafeFrame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/State/src/com/state/State.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/Hand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/Player.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/ProbStrategy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/Strategy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strategy/src/com/strategy/WinningStrategy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/Chain_of_Responsibility.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/Visitor.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/Diretory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/Element.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/Entry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/File.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/FileTreatmentException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/ListVisitor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Visitor/src/com/visitor/Visitor.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Builer/Builer.iml" afterPath="$PROJECT_DIR$/Builder/Builder.iml" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/Builder.java" afterPath="$PROJECT_DIR$/Builder/src/com/Builder.java" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/Builder.png" afterPath="$PROJECT_DIR$/Builder/src/com/Builder.png" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/Director.java" afterPath="$PROJECT_DIR$/Builder/src/com/Director.java" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/HTMLBuilder.java" afterPath="$PROJECT_DIR$/Builder/src/com/HTMLBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/Main.java" afterPath="$PROJECT_DIR$/Builder/src/com/Main.java" />
-      <change beforePath="$PROJECT_DIR$/Builer/src/com/TextBuilder.java" afterPath="$PROJECT_DIR$/Builder/src/com/TextBuilder.java" />
+      <change beforePath="$PROJECT_DIR$/Display/Bridge.iml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,15 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Decorator.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Decorator/src/com/decorator/Decorator.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -571,7 +457,7 @@
       <workItem from="1592052914563" duration="7000000" />
       <workItem from="1592097369395" duration="11193000" />
       <workItem from="1592129279899" duration="9822000" />
-      <workItem from="1592706135875" duration="11375000" />
+      <workItem from="1592706135875" duration="12005000" />
     </task>
     <task id="LOCAL-00001" summary="Bridge">
       <created>1591916945866</created>
@@ -584,7 +470,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56872000" />
+    <option name="totallyTimeSpent" value="57502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -613,7 +499,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.50574714" order="0" side_tool="true" content_ui="tabs" x="160" y="67" width="255" height="635" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.50574714" order="0" side_tool="true" content_ui="tabs" x="160" y="67" width="255" height="635" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
